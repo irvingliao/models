@@ -1,0 +1,1 @@
+D:\Code\protoc-3.4.0\bin\protoc object_detection/protos/*.proto --python_out=.

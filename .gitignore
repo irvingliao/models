@@ -92,3 +92,6 @@ ENV/
 .idea/
 .DS_Store
 research/object_detection/protos
+research/object_detection/export_models
+research/object_detection/model
+research/object_detection/train
